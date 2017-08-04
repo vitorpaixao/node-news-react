@@ -1,0 +1,701 @@
+[{
+  "contratoId": 1,
+  "data": "6/20/2017",
+  "id": "a366b48c-935b-439d-b5db-aa77fa30fcd9",
+  "parceiroId": "9d2415e7-9ac8-4b06-beab-5a77bb1ef6bb",
+  "pontos": 7203,
+  "transacao": "Buick"
+}, {
+  "contratoId": 2,
+  "data": "11/7/2016",
+  "id": "3bb580f3-ae10-43a1-af73-75436c622907",
+  "parceiroId": "9107c872-444b-444f-bc7d-702090c93add",
+  "pontos": 8177,
+  "transacao": "Maserati"
+}, {
+  "contratoId": 3,
+  "data": "6/14/2017",
+  "id": "de427979-54c0-4acf-b418-9be2c4e1cc5a",
+  "parceiroId": "4279d88c-a213-45f4-95bf-3b957ead9c8e",
+  "pontos": 6535,
+  "transacao": "Land Rover"
+}, {
+  "contratoId": 4,
+  "data": "1/20/2017",
+  "id": "e0a2d3f6-0e93-48c9-8e7c-616dd582bdb3",
+  "parceiroId": "286f4b31-199a-4466-b350-2c7663dcea14",
+  "pontos": 2216,
+  "transacao": "Cadillac"
+}, {
+  "contratoId": 5,
+  "data": "7/25/2016",
+  "id": "fe9cd99d-a6eb-49ca-93b9-e5627947fc2c",
+  "parceiroId": "85b9d582-830f-41e2-b463-d5235afb28d9",
+  "pontos": 7621,
+  "transacao": "Suzuki"
+}, {
+  "contratoId": 6,
+  "data": "9/14/2016",
+  "id": "a7d0302b-ec2d-4dc3-8312-1fbf06a620e8",
+  "parceiroId": "0f2d176d-476c-467c-a127-0db4bd76bad6",
+  "pontos": 7977,
+  "transacao": "Ford"
+}, {
+  "contratoId": 7,
+  "data": "5/31/2017",
+  "id": "f2d2da00-a473-473b-9e37-ade93dd57ca9",
+  "parceiroId": "5a193623-fe96-4f7a-bbe6-ee7c7f6ff25d",
+  "pontos": 7954,
+  "transacao": "Cadillac"
+}, {
+  "contratoId": 8,
+  "data": "7/20/2017",
+  "id": "27a86046-1105-4e8f-a0d0-285d096668e9",
+  "parceiroId": "99c32b26-76bb-4dc9-a7f7-67dfed6ec85c",
+  "pontos": 6459,
+  "transacao": "Lincoln"
+}, {
+  "contratoId": 9,
+  "data": "9/16/2016",
+  "id": "bfbc6ae3-498f-4c0c-bcb4-ae76b7541b0b",
+  "parceiroId": "3dc92196-379b-451f-b09f-ad130dd0cf9b",
+  "pontos": 8632,
+  "transacao": "Ford"
+}, {
+  "contratoId": 10,
+  "data": "1/20/2017",
+  "id": "0497dafa-4f45-464f-b624-06d11d60a661",
+  "parceiroId": "fabb29fe-e872-4907-99e5-a6463a3f690e",
+  "pontos": 5188,
+  "transacao": "Mercedes-Benz"
+}, {
+  "contratoId": 11,
+  "data": "6/24/2017",
+  "id": "b1c30bad-06e3-44a7-a93c-b75ee07941aa",
+  "parceiroId": "79f4fd4a-112c-4695-a86a-1ed513b6c0b4",
+  "pontos": 9234,
+  "transacao": "GMC"
+}, {
+  "contratoId": 12,
+  "data": "1/26/2017",
+  "id": "9bf6e4d7-db23-4938-ac46-e4d0391f47bd",
+  "parceiroId": "3ccd4368-c818-4ea8-ad26-02668c6a04d4",
+  "pontos": 475,
+  "transacao": "Buick"
+}, {
+  "contratoId": 13,
+  "data": "9/18/2016",
+  "id": "c0b9fa99-2e61-4e1f-984b-2b6b11f04425",
+  "parceiroId": "b29e1807-1ba7-4e12-b585-d424f7ca59db",
+  "pontos": 5309,
+  "transacao": "Buick"
+}, {
+  "contratoId": 14,
+  "data": "7/6/2017",
+  "id": "4e0fcaf4-c4a0-463b-ad77-6320d27fe8b7",
+  "parceiroId": "7f7e1a19-9a78-454e-a882-426916f96c31",
+  "pontos": 3223,
+  "transacao": "BMW"
+}, {
+  "contratoId": 15,
+  "data": "5/23/2017",
+  "id": "20a3b797-affd-4c74-a22f-0feeffec3cc4",
+  "parceiroId": "bac1685b-6f72-48a9-99ae-1ecf710ff1ed",
+  "pontos": 1228,
+  "transacao": "Pontiac"
+}, {
+  "contratoId": 16,
+  "data": "8/9/2016",
+  "id": "92a4c1e7-4501-49f1-8840-96e4a61cc26f",
+  "parceiroId": "be70ab1f-a965-48b4-bb87-9f56c18e880c",
+  "pontos": 6815,
+  "transacao": "Acura"
+}, {
+  "contratoId": 17,
+  "data": "8/14/2016",
+  "id": "c7fa5451-4a1e-4222-9d63-4e07db3669a1",
+  "parceiroId": "da64ebdc-36a3-4755-a109-b84c91db8311",
+  "pontos": 7189,
+  "transacao": "Chevrolet"
+}, {
+  "contratoId": 18,
+  "data": "1/23/2017",
+  "id": "a77039be-5355-4c99-acad-ef7bed8dfd5b",
+  "parceiroId": "ba7281c2-acaf-4152-b8ae-0ee09ea83f7a",
+  "pontos": 9782,
+  "transacao": "Ford"
+}, {
+  "contratoId": 19,
+  "data": "1/18/2017",
+  "id": "243ba433-b863-42c6-b3ff-03b6b27cf594",
+  "parceiroId": "f6cdfeec-7a50-483b-b808-a57f926c0f03",
+  "pontos": 487,
+  "transacao": "Buick"
+}, {
+  "contratoId": 20,
+  "data": "11/16/2016",
+  "id": "de11be06-974c-4de3-89a6-25be7fd477b4",
+  "parceiroId": "018701f3-5ec4-4109-abb3-166cdeb3ef2e",
+  "pontos": 1456,
+  "transacao": "Nissan"
+}, {
+  "contratoId": 21,
+  "data": "4/12/2017",
+  "id": "bb0f1355-8d18-440c-8938-45d0eceac802",
+  "parceiroId": "4633ed40-1f79-40eb-ad26-e3ad00f03267",
+  "pontos": 631,
+  "transacao": "Chevrolet"
+}, {
+  "contratoId": 22,
+  "data": "11/9/2016",
+  "id": "17bce2b9-b4c5-4be6-884d-f124fbc4d32d",
+  "parceiroId": "74ba83ed-5746-4c86-bcdd-ffb0247ab644",
+  "pontos": 5581,
+  "transacao": "Chevrolet"
+}, {
+  "contratoId": 23,
+  "data": "10/2/2016",
+  "id": "50879346-4759-4b6f-ac17-10e109b80750",
+  "parceiroId": "bfddb2c1-cc0e-4cb5-a564-b7851fbcdef9",
+  "pontos": 9225,
+  "transacao": "Bentley"
+}, {
+  "contratoId": 24,
+  "data": "11/30/2016",
+  "id": "91a8abf2-ef52-46db-befa-cfcf0cae8796",
+  "parceiroId": "7216fdf5-15c1-4801-88a5-61c77dd7ba15",
+  "pontos": 6517,
+  "transacao": "Pontiac"
+}, {
+  "contratoId": 25,
+  "data": "10/16/2016",
+  "id": "6842ef21-b74f-4fb5-a917-cf0951fc1e9d",
+  "parceiroId": "933c464d-c1d4-4e77-b6b9-157488058a55",
+  "pontos": 4474,
+  "transacao": "GMC"
+}, {
+  "contratoId": 26,
+  "data": "8/19/2016",
+  "id": "2b2b147e-0857-4ed3-ad7b-cc7647524d2f",
+  "parceiroId": "6a096581-1e32-46d8-8adf-7fdd03512f41",
+  "pontos": 8969,
+  "transacao": "Ford"
+}, {
+  "contratoId": 27,
+  "data": "9/20/2016",
+  "id": "05cf1e69-42e3-4bae-a199-ed8dc0f5ee5d",
+  "parceiroId": "df0d227c-0e54-4079-8e70-580aea6c8f01",
+  "pontos": 7546,
+  "transacao": "Mazda"
+}, {
+  "contratoId": 28,
+  "data": "7/21/2017",
+  "id": "db1fb2de-bf1b-4737-bc83-baf66e301b72",
+  "parceiroId": "6f867089-4c7e-481c-b850-b47dd693ab68",
+  "pontos": 9926,
+  "transacao": "Hyundai"
+}, {
+  "contratoId": 29,
+  "data": "5/9/2017",
+  "id": "358df247-46ca-44b7-8a75-b813659173ce",
+  "parceiroId": "6c96ff96-fc3d-4afe-8cd0-20750b03db67",
+  "pontos": 5644,
+  "transacao": "Mazda"
+}, {
+  "contratoId": 30,
+  "data": "10/7/2016",
+  "id": "8677149a-4be0-4d80-81a2-b039f17f5764",
+  "parceiroId": "725029e1-55e0-436c-9836-7da57cb161f4",
+  "pontos": 9382,
+  "transacao": "Ford"
+}, {
+  "contratoId": 31,
+  "data": "7/31/2016",
+  "id": "2cae136e-905b-4079-82ea-f25aaa6a0b9a",
+  "parceiroId": "c343b98c-0600-4dca-b465-dd57a2529389",
+  "pontos": 7495,
+  "transacao": "Buick"
+}, {
+  "contratoId": 32,
+  "data": "3/15/2017",
+  "id": "1d069315-fc76-47e0-99a3-8d2b679d3670",
+  "parceiroId": "f067f9d3-824a-4c17-9af4-b6cc7c804b1c",
+  "pontos": 8363,
+  "transacao": "Isuzu"
+}, {
+  "contratoId": 33,
+  "data": "1/3/2017",
+  "id": "de11afc7-0c70-4e72-94ce-da4fba7b6a16",
+  "parceiroId": "9f659525-2a54-43f4-a01e-d8bf3d6c2967",
+  "pontos": 3080,
+  "transacao": "Buick"
+}, {
+  "contratoId": 34,
+  "data": "3/30/2017",
+  "id": "4a8d0664-8996-4d62-8781-51c122a18971",
+  "parceiroId": "888b5a89-74bf-4703-bb42-5b3b12d2ff99",
+  "pontos": 8014,
+  "transacao": "Chevrolet"
+}, {
+  "contratoId": 35,
+  "data": "3/24/2017",
+  "id": "aead5a2e-8dfc-4e3e-ab63-7f2b506ca586",
+  "parceiroId": "bdd2da4f-e0ee-4008-9040-e35f9cf33ceb",
+  "pontos": 6633,
+  "transacao": "Subaru"
+}, {
+  "contratoId": 36,
+  "data": "3/25/2017",
+  "id": "b3cb3413-f070-4f5a-921c-370b4f9bb783",
+  "parceiroId": "69d6e9d9-8b9e-4320-9825-f01e3d07a981",
+  "pontos": 8652,
+  "transacao": "GMC"
+}, {
+  "contratoId": 37,
+  "data": "8/27/2016",
+  "id": "3d8d7b8c-e5ca-4e1d-b2fe-ab1d20938aa8",
+  "parceiroId": "cd991930-8a47-4654-b97a-3f760d22a650",
+  "pontos": 9714,
+  "transacao": "Chrysler"
+}, {
+  "contratoId": 38,
+  "data": "2/1/2017",
+  "id": "da785d21-c8c8-45dc-85c1-3e633b2f5735",
+  "parceiroId": "5890dec9-3691-48b8-bae3-8edeecf600a3",
+  "pontos": 4979,
+  "transacao": "Cadillac"
+}, {
+  "contratoId": 39,
+  "data": "12/15/2016",
+  "id": "ae628fd3-a39d-400f-a9cb-7f5326d5c2f0",
+  "parceiroId": "cdffd83a-191b-4b5a-bad5-cd4ce9f9bafd",
+  "pontos": 7169,
+  "transacao": "Ford"
+}, {
+  "contratoId": 40,
+  "data": "3/13/2017",
+  "id": "12dcf086-35f9-452f-95f0-a0f97ccb9b88",
+  "parceiroId": "4dbfad7c-2376-47d7-928f-1047d1396259",
+  "pontos": 3554,
+  "transacao": "Isuzu"
+}, {
+  "contratoId": 41,
+  "data": "3/23/2017",
+  "id": "94555947-0516-4312-ae2a-e37901dbe6c6",
+  "parceiroId": "2de72f00-ce2b-4e3a-a4de-edd745f56ac1",
+  "pontos": 3500,
+  "transacao": "Pontiac"
+}, {
+  "contratoId": 42,
+  "data": "1/21/2017",
+  "id": "2486f6eb-bf46-42b1-8b58-219ec0ce0be8",
+  "parceiroId": "7506b2c2-9012-417a-bc9c-d47ab053c1b3",
+  "pontos": 9064,
+  "transacao": "GMC"
+}, {
+  "contratoId": 43,
+  "data": "4/22/2017",
+  "id": "6d7b5f8e-da35-4be9-b04a-ccd24b30ce0e",
+  "parceiroId": "20b8c522-8f67-4855-b460-b6a0a7c16ff4",
+  "pontos": 8318,
+  "transacao": "Suzuki"
+}, {
+  "contratoId": 44,
+  "data": "10/5/2016",
+  "id": "56f06a98-cb62-44c4-a399-89536723c979",
+  "parceiroId": "23a446a0-7414-4592-9adf-653f8d56a13d",
+  "pontos": 9553,
+  "transacao": "Lexus"
+}, {
+  "contratoId": 45,
+  "data": "7/19/2017",
+  "id": "8065cde4-21de-459f-873f-a87024b4454e",
+  "parceiroId": "42fd4942-b8d2-4ece-9077-dc608d13b415",
+  "pontos": 7067,
+  "transacao": "Lincoln"
+}, {
+  "contratoId": 46,
+  "data": "11/3/2016",
+  "id": "8f4bb68a-8e5f-46bb-ad29-19f0acf31c0f",
+  "parceiroId": "c56b88c1-80b7-4bc0-af88-f1cfc13a7132",
+  "pontos": 355,
+  "transacao": "Chevrolet"
+}, {
+  "contratoId": 47,
+  "data": "2/2/2017",
+  "id": "f644c723-2b5f-41ae-9e70-e6a862c31567",
+  "parceiroId": "519f5872-737c-4090-8140-abca7ac9ede6",
+  "pontos": 226,
+  "transacao": "Mitsubishi"
+}, {
+  "contratoId": 48,
+  "data": "5/10/2017",
+  "id": "c9634b9b-ad5b-4376-bdcc-1a8e5b686401",
+  "parceiroId": "96a7a2ba-8352-49c9-8544-06a1cc63cfba",
+  "pontos": 2758,
+  "transacao": "Subaru"
+}, {
+  "contratoId": 49,
+  "data": "12/29/2016",
+  "id": "03763819-1381-40f0-86ac-2fcdc972aef0",
+  "parceiroId": "128dc2a6-fca4-4679-b344-ea81fc22438c",
+  "pontos": 4751,
+  "transacao": "Toyota"
+}, {
+  "contratoId": 50,
+  "data": "7/28/2016",
+  "id": "27f4a7bb-e1ec-4510-a1b0-ab52f612c33e",
+  "parceiroId": "4b88aee8-935d-4ebc-b125-bea373e39752",
+  "pontos": 480,
+  "transacao": "Subaru"
+}, {
+  "contratoId": 51,
+  "data": "5/21/2017",
+  "id": "c7ebae09-e08e-4104-ab9b-7fdb823f459d",
+  "parceiroId": "9a1a1ca0-6f87-4689-8316-742593deb7c1",
+  "pontos": 1843,
+  "transacao": "Honda"
+}, {
+  "contratoId": 52,
+  "data": "3/12/2017",
+  "id": "bb6dae3b-87c2-472f-a110-d70f976207d8",
+  "parceiroId": "67dfdd47-0410-4c96-a778-354d4ab14ba1",
+  "pontos": 8593,
+  "transacao": "Aston Martin"
+}, {
+  "contratoId": 53,
+  "data": "3/21/2017",
+  "id": "5aa4a39b-adf0-4193-a284-4be867c42a76",
+  "parceiroId": "8d41b803-760d-4102-9a8c-506c4c8dcf58",
+  "pontos": 6015,
+  "transacao": "Kia"
+}, {
+  "contratoId": 54,
+  "data": "5/31/2017",
+  "id": "6d1f1096-eadc-47d2-871b-fb888becc86b",
+  "parceiroId": "357af5a7-51e9-4a7a-a8f4-a4a9e5933c7d",
+  "pontos": 4848,
+  "transacao": "Chevrolet"
+}, {
+  "contratoId": 55,
+  "data": "5/17/2017",
+  "id": "801b3c25-83ef-433b-b930-019134109aec",
+  "parceiroId": "088ffc14-96a3-4660-889d-c39cf717cd72",
+  "pontos": 7236,
+  "transacao": "Oldsmobile"
+}, {
+  "contratoId": 56,
+  "data": "6/25/2017",
+  "id": "d26a85da-f9e0-40f0-b2fa-1265c0e4cd7b",
+  "parceiroId": "1ddc3dcd-8a4a-4940-9a6f-eceaf9d46ae6",
+  "pontos": 9453,
+  "transacao": "Chrysler"
+}, {
+  "contratoId": 57,
+  "data": "7/27/2016",
+  "id": "811b65a3-e0c5-45af-b3d9-03724e4c1811",
+  "parceiroId": "e55c665c-9861-4fb9-84ac-3d6ab98b0527",
+  "pontos": 8364,
+  "transacao": "Audi"
+}, {
+  "contratoId": 58,
+  "data": "11/22/2016",
+  "id": "bbefef7d-36e7-4278-95bc-81c3f34545cf",
+  "parceiroId": "79ed57dc-a0b8-42fe-a765-f5940d641ea4",
+  "pontos": 1162,
+  "transacao": "Mercedes-Benz"
+}, {
+  "contratoId": 59,
+  "data": "9/5/2016",
+  "id": "45ccc209-767e-4d57-93c6-0eb0ff1d488d",
+  "parceiroId": "01682d4a-5f8a-488c-b458-8de5b5565306",
+  "pontos": 6603,
+  "transacao": "Ford"
+}, {
+  "contratoId": 60,
+  "data": "1/16/2017",
+  "id": "6c477da7-1c72-4bd5-9b5f-b97efea67019",
+  "parceiroId": "cb9c3cf9-9bbc-4568-9cf9-b02a303c7563",
+  "pontos": 5401,
+  "transacao": "Toyota"
+}, {
+  "contratoId": 61,
+  "data": "6/2/2017",
+  "id": "3e9ac404-11aa-4a7d-82bf-b1ea2cc6dc0c",
+  "parceiroId": "ab5045fa-79ef-4b26-afe0-d6aa45fbfe98",
+  "pontos": 6812,
+  "transacao": "Mitsubishi"
+}, {
+  "contratoId": 62,
+  "data": "2/9/2017",
+  "id": "23b4b88a-2566-408c-a94d-0a24fb565513",
+  "parceiroId": "986e36dc-b6e6-403d-969c-7d2d81736c33",
+  "pontos": 156,
+  "transacao": "Buick"
+}, {
+  "contratoId": 63,
+  "data": "10/23/2016",
+  "id": "8e8394d1-ed5e-4a69-a0ff-ed5200b4f69c",
+  "parceiroId": "2e5c833c-de09-494d-a5b4-3fc8a56021ca",
+  "pontos": 7685,
+  "transacao": "Saturn"
+}, {
+  "contratoId": 64,
+  "data": "7/19/2017",
+  "id": "5483e1d7-2bef-45cf-9b63-b64cd3c10e54",
+  "parceiroId": "4a86e16a-d02a-499d-843b-f1ac7026d77e",
+  "pontos": 2841,
+  "transacao": "Mazda"
+}, {
+  "contratoId": 65,
+  "data": "10/15/2016",
+  "id": "d36d0c29-8e88-4c7a-8549-136ac2eececf",
+  "parceiroId": "2611efde-df28-419f-82ea-731b2b5e227a",
+  "pontos": 7398,
+  "transacao": "Ford"
+}, {
+  "contratoId": 66,
+  "data": "4/7/2017",
+  "id": "bfbd3dca-56c6-43c9-b8f8-6b33ba67d9d1",
+  "parceiroId": "9bc7d3b1-5083-42fc-bdbc-5305dca40280",
+  "pontos": 2815,
+  "transacao": "Pontiac"
+}, {
+  "contratoId": 67,
+  "data": "9/19/2016",
+  "id": "7c23d85e-ed9d-4c73-a274-22bc22f9eeb4",
+  "parceiroId": "67d6787a-427d-4695-9b37-59aa45a79d5b",
+  "pontos": 4330,
+  "transacao": "Bentley"
+}, {
+  "contratoId": 68,
+  "data": "2/17/2017",
+  "id": "18223b5b-03a0-48cb-a8c5-f2572dc487d7",
+  "parceiroId": "62abd716-2f04-42a2-9204-18b364425ea4",
+  "pontos": 5993,
+  "transacao": "Pontiac"
+}, {
+  "contratoId": 69,
+  "data": "12/20/2016",
+  "id": "9d3c0030-6de3-4414-adcc-ad60e13b119c",
+  "parceiroId": "997cdb05-c013-4e07-8b11-c4f5aae93484",
+  "pontos": 9300,
+  "transacao": "Cadillac"
+}, {
+  "contratoId": 70,
+  "data": "11/22/2016",
+  "id": "73ee23d4-2e58-47f1-8c97-96157758695d",
+  "parceiroId": "de96f898-7e0d-40d9-a56b-e302aaa776c3",
+  "pontos": 7538,
+  "transacao": "Toyota"
+}, {
+  "contratoId": 71,
+  "data": "8/24/2016",
+  "id": "dd317024-fe5c-4181-b62d-a97d85621484",
+  "parceiroId": "151e081a-7387-498d-8dc8-825b888d4674",
+  "pontos": 5715,
+  "transacao": "Ford"
+}, {
+  "contratoId": 72,
+  "data": "6/25/2017",
+  "id": "99d19e03-8e42-454d-a556-ba2caac08261",
+  "parceiroId": "8c354ad1-dc87-4de8-a58e-99531a729b0f",
+  "pontos": 4148,
+  "transacao": "Hyundai"
+}, {
+  "contratoId": 73,
+  "data": "9/14/2016",
+  "id": "6da13ed9-e504-4661-bfa8-4335f528c4a4",
+  "parceiroId": "4f83e7f2-9a44-4042-a7bb-0210eb521c25",
+  "pontos": 5307,
+  "transacao": "Lincoln"
+}, {
+  "contratoId": 74,
+  "data": "1/2/2017",
+  "id": "41475acc-abb5-4054-ac67-1c50da75e73c",
+  "parceiroId": "72e54126-21ec-4b2a-899f-4b082bbf64ae",
+  "pontos": 8654,
+  "transacao": "Mitsubishi"
+}, {
+  "contratoId": 75,
+  "data": "6/14/2017",
+  "id": "18dcba2f-7aa5-4146-8a92-0771906dcce0",
+  "parceiroId": "de775a5f-c954-4eca-835f-e7a278b9ebc1",
+  "pontos": 4649,
+  "transacao": "Chrysler"
+}, {
+  "contratoId": 76,
+  "data": "6/12/2017",
+  "id": "c4d894ed-f32a-48ef-8076-3a962e66eee4",
+  "parceiroId": "eb1192ab-ee80-4089-bc86-cf713f25d474",
+  "pontos": 6343,
+  "transacao": "Chevrolet"
+}, {
+  "contratoId": 77,
+  "data": "10/17/2016",
+  "id": "c5bc3b02-5656-4601-964e-916b50cb927a",
+  "parceiroId": "2ba549f7-18c3-4d16-9578-c9eb5cc63901",
+  "pontos": 3677,
+  "transacao": "GMC"
+}, {
+  "contratoId": 78,
+  "data": "3/21/2017",
+  "id": "d288bbf3-004c-4e56-98e1-270136839eff",
+  "parceiroId": "e3dfa013-b925-49ae-83a2-62ebb0105874",
+  "pontos": 8669,
+  "transacao": "GMC"
+}, {
+  "contratoId": 79,
+  "data": "11/22/2016",
+  "id": "e9e2d78b-06d1-4196-8d2f-736290b0dbad",
+  "parceiroId": "06003c2d-6d9e-478d-83fa-279d3a6d9390",
+  "pontos": 6862,
+  "transacao": "Volkswagen"
+}, {
+  "contratoId": 80,
+  "data": "7/5/2017",
+  "id": "386bb01c-ae08-4c17-b27d-10353bb4ef3f",
+  "parceiroId": "1abc3935-7bf9-47be-b289-b394aa762f92",
+  "pontos": 8655,
+  "transacao": "Pontiac"
+}, {
+  "contratoId": 81,
+  "data": "10/14/2016",
+  "id": "ea1628c9-277c-4787-92cf-b1e069c1b436",
+  "parceiroId": "e0ce810f-ef9c-4681-b68f-8314754bff43",
+  "pontos": 9203,
+  "transacao": "Subaru"
+}, {
+  "contratoId": 82,
+  "data": "11/9/2016",
+  "id": "886160b1-0289-4871-b0d6-96c736564558",
+  "parceiroId": "0e71defb-deb4-4c26-a74a-d56fdd660e53",
+  "pontos": 1517,
+  "transacao": "Ford"
+}, {
+  "contratoId": 83,
+  "data": "12/22/2016",
+  "id": "39025dd6-dfa7-4f2e-ab01-9ebfb0837f9d",
+  "parceiroId": "065af9d5-ae6f-42ea-8784-060b13116d1b",
+  "pontos": 9444,
+  "transacao": "Hummer"
+}, {
+  "contratoId": 84,
+  "data": "6/11/2017",
+  "id": "357903c8-df4e-4b56-8367-6b2d3139c8b1",
+  "parceiroId": "1815c0b4-ebf7-4f57-af68-6797dc900fa4",
+  "pontos": 8437,
+  "transacao": "Infiniti"
+}, {
+  "contratoId": 85,
+  "data": "6/1/2017",
+  "id": "c8e7368b-eea1-4c12-9076-e67db8440372",
+  "parceiroId": "4d0d1daa-0e17-420f-aa80-2969bea7cee7",
+  "pontos": 6627,
+  "transacao": "Dodge"
+}, {
+  "contratoId": 86,
+  "data": "2/23/2017",
+  "id": "6396f8f1-d7e1-4e08-905f-4d45765b1a8e",
+  "parceiroId": "5f9cdeee-42ca-4166-afc3-6a30d96c78fc",
+  "pontos": 6330,
+  "transacao": "Volvo"
+}, {
+  "contratoId": 87,
+  "data": "12/30/2016",
+  "id": "5a85aee9-71cc-46aa-b0b3-44a6a469264b",
+  "parceiroId": "80a7e034-56e4-403b-83e7-49a593cb5878",
+  "pontos": 6326,
+  "transacao": "Chevrolet"
+}, {
+  "contratoId": 88,
+  "data": "1/26/2017",
+  "id": "d9be2ad6-1527-4749-8224-41a0f2f9c3b9",
+  "parceiroId": "43472899-db41-4374-97e4-f2f06a0e40b6",
+  "pontos": 4103,
+  "transacao": "Nissan"
+}, {
+  "contratoId": 89,
+  "data": "3/26/2017",
+  "id": "6d720c45-cf07-4dea-915d-3f4074572024",
+  "parceiroId": "7f64716c-39b0-4189-b6a5-9173cbdca1ea",
+  "pontos": 1562,
+  "transacao": "Dodge"
+}, {
+  "contratoId": 90,
+  "data": "3/13/2017",
+  "id": "44399755-d471-46a9-8a4c-efe6edde11f6",
+  "parceiroId": "60faec86-7df4-4ff8-9c13-030c2d627d57",
+  "pontos": 3974,
+  "transacao": "Ford"
+}, {
+  "contratoId": 91,
+  "data": "6/14/2017",
+  "id": "c194c534-ad44-4461-8d3c-035a5d84c10e",
+  "parceiroId": "4fa6c09c-908e-42a0-8b14-aaa2b2b91425",
+  "pontos": 7459,
+  "transacao": "Subaru"
+}, {
+  "contratoId": 92,
+  "data": "12/17/2016",
+  "id": "71327a8e-585b-4285-b14a-1a70880c40da",
+  "parceiroId": "934b47c7-f06d-41f3-b30d-b26dc94af93b",
+  "pontos": 9181,
+  "transacao": "Geo"
+}, {
+  "contratoId": 93,
+  "data": "6/1/2017",
+  "id": "94d7e42c-e57f-4867-95da-cce497e0e9a7",
+  "parceiroId": "3d9deda5-2a1a-4d70-92fc-c3cd18982356",
+  "pontos": 7126,
+  "transacao": "GMC"
+}, {
+  "contratoId": 94,
+  "data": "11/3/2016",
+  "id": "97a5262e-c69b-42d9-94f6-2b98a119eacb",
+  "parceiroId": "f08c834c-d209-4565-8b7d-1141ed8963ed",
+  "pontos": 4117,
+  "transacao": "Mercedes-Benz"
+}, {
+  "contratoId": 95,
+  "data": "7/2/2017",
+  "id": "5571d3ad-ec1e-44d9-8bad-65fd5f1a11ee",
+  "parceiroId": "43a99226-33fa-443d-afc1-ccdeeeb9ecb1",
+  "pontos": 8485,
+  "transacao": "Buick"
+}, {
+  "contratoId": 96,
+  "data": "5/13/2017",
+  "id": "13a50e92-36d6-48c6-a373-a8bf9de9fea1",
+  "parceiroId": "a63e3101-5b69-4821-969a-b9aebb3d2639",
+  "pontos": 7291,
+  "transacao": "Nissan"
+}, {
+  "contratoId": 97,
+  "data": "3/23/2017",
+  "id": "59aa062b-4cf5-4be8-a44f-a634d03eaceb",
+  "parceiroId": "828301ab-d0f0-41eb-810c-d6364a07efc2",
+  "pontos": 5528,
+  "transacao": "Toyota"
+}, {
+  "contratoId": 98,
+  "data": "1/26/2017",
+  "id": "5c815e61-37a2-4afb-902c-d4c6507f5a08",
+  "parceiroId": "f1678edd-a65b-4d28-b083-012aa754af16",
+  "pontos": 3724,
+  "transacao": "Ford"
+}, {
+  "contratoId": 99,
+  "data": "4/21/2017",
+  "id": "a28f8bcd-9c74-4176-b7da-257a33056900",
+  "parceiroId": "4898a93e-b409-45b0-a19a-a2c0ef76910f",
+  "pontos": 7976,
+  "transacao": "Mazda"
+}, {
+  "contratoId": 100,
+  "data": "7/5/2017",
+  "id": "cd40f469-d894-4737-b42a-c1fed0433d3e",
+  "parceiroId": "dad14184-baf0-4bda-92dd-d9a0fb346f22",
+  "pontos": 3993,
+  "transacao": "Chevrolet"
+}]
